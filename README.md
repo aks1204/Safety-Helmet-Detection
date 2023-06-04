@@ -1,6 +1,6 @@
 # Refer Hard Hat Detection Masked With Color Detection.pdf in this repository to get details about the work carried out so far in this project.
 
-# Code is not updated as of 15th May 2023.
+# The code in this repository is not updated as of 15th May 2023.
 
 # Safety-Helmet-Detection
 
