@@ -1,4 +1,4 @@
-# To get details about the work done so far refer Hard Hat Detection Masked With Color Detection.pdf
+# To get details about the work carried out so far in this project refer Hard Hat Detection Masked With Color Detection.pdf
 
 # Code is not updated as of 15th May 2023.
 
